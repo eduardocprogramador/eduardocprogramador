@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👨‍💻 Desenvolvedor Full Stack | Apaixonado por Tecnologias Web
 
-<!--
-**eduardocprogramador/eduardocprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Eduardo e sou desenvolvedor full stack com foco em criar aplicações eficientes e com uma excelente experiência de usuário. Tenho experiência em desenvolvimento front-end e back-end, gosto de trabalhar em projetos que exigem resolução criativa de problemas.
 
-Here are some ideas to get you started:
+#### Estou buscando uma vaga no momento 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Habilidades:
+
+💻 Front-end: HTML, CSS, JavaScript <br>
+🖥️ Back-end: Python, PHP <br>
+🗄️ Banco de Dados: MySQL, PostgreSQL <br>
+🚀 Frameworks: Laravel, React, Vue.js <br>
+🔧 Outros: APIs RESTful, Git
+
+Vamos construir algo incrível juntos! Entre em contato pelo eduardocostacarvalho7@gmail.com 🚀
