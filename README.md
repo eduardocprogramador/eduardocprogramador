@@ -4,7 +4,7 @@ Olá, meu nome é Eduardo e sou desenvolvedor full stack com foco em criar aplic
 
 #### 🛠️ Habilidades:
 
-💻 Front-end: HTML, CSS, JavaScript, JQuery, Bootstrap <br>
+💻 Front-end: HTML, CSS, JavaScript, React, Bootstrap <br>
 🖥️ Back-end: PHP <br>
 🗄️ Banco de Dados: MySQL <br>
 🔧 Outros: Python, C, C++
