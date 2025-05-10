@@ -6,7 +6,7 @@ Olá, meu nome é Eduardo e sou desenvolvedor full stack com foco em criar aplic
 
 💻 Front-end: HTML, CSS, JavaScript, React, Bootstrap <br>
 🖥️ Back-end: PHP <br>
-🗄️ Banco de Dados: MySQL <br>
+🗄️ Banco de Dados: MySQL, Firebase <br>
 🔧 Outros: Python, C, C++
 
 Vamos construir algo incrível juntos! Entre em contato pelo eduardocosta-carvalho@hotmail.com 🚀
