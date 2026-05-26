@@ -1,12 +1,12 @@
 ### 👨‍💻 Desenvolvedor Full Stack | Apaixonado por Tecnologias Web
 
-Olá, meu nome é Eduardo e sou desenvolvedor full stack com foco em criar aplicações eficientes e com uma excelente experiência de usuário. Tenho experiência em desenvolvimento front-end e back-end, gosto de trabalhar em projetos que exigem resolução criativa de problemas.
+Olá! Sou desenvolvedor full stack apaixonado por tecnologia e por criar aplicações web e mobile eficientes, escaláveis e com ótima experiência para o usuário.
+
+Tenho experiência no desenvolvimento front-end e back-end, atuando na construção de APIs, interfaces modernas e integrações entre sistemas. Gosto de trabalhar em projetos que envolvem resolução criativa de problemas e aprendizado contínuo.
 
 #### 🛠️ Habilidades:
 
-💻 Front-end: HTML, CSS, JavaScript, React, Bootstrap <br>
-🖥️ Back-end: NodeJS, PHP <br>
-🗄️ Banco de Dados: MySQL, MongoDB <br>
-📱 Desenvolvimento de Aplicativos: React Native <br>
+⚛️ React • 📱 React Native • 🟢 Node.js • 🐍 Python • 🔗 APIs • 🗄️ SQL • 🍃 MongoDB
 
-Vamos construir algo incrível juntos! Entre em contato pelo eduardocosta-carvalho@hotmail.com 🚀
+Vamos construir algo incrível juntos!
+📩 eduardocosta-carvalho@hotmail.com
