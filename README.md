@@ -8,5 +8,6 @@ Tenho experiência no desenvolvimento front-end e back-end, atuando na construç
 
 ⚛️ React • 📱 React Native • 🟢 Node.js • 🐍 Python • 🔗 APIs • 🗄️ SQL • 🍃 MongoDB
 
+
 Vamos construir algo incrível juntos!
 📩 eduardocosta-carvalho@hotmail.com
